@@ -1,0 +1,13 @@
+output{
+    display: flex;
+    border: 8px solid;
+    border-bottom: 16px solid;
+    width:200px;
+    height:70px;
+    align-items: center;
+    justify-content: center;
+    background-color:aquamarine;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
